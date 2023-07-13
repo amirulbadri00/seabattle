@@ -1,5 +1,7 @@
 # Statistical test to find the probability of hitting a ship in the game Sea Battle
 
+Status: ongoing (data collection)
+
 ## Intro
 
 Sea Battle is an online game on a mobile gaming app called 'Plato'. It is an online version of the traditional board game 'Battleship' with slight modifications.
